@@ -1,0 +1,57 @@
+h1 {
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+    border: 3px blue inset;
+}
+
+p {
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 10px 0 10px 20px;
+    color: aqua;
+}
+
+p:hover {
+    background-color: rgb(196, 95, 236);
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    display:block;
+    padding: 10px;
+    color: black;
+    border: inset;
+    background-color: rgb(196, 95, 236);
+    font-size: 15px;
+    width: 200px;
+    margin: auto;
+
+}
+
+ol,ul {
+    color: white;
+    font-size: 20px;
+    background-color: grey;
+    border: outset;
+}
+
+h3 {
+    background-color: rgb(200, 33, 233);
+    text-align: center;
+    border: 3px inset;
+}
+
+div {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+button:hover {
+    background-color: pink;
+}
